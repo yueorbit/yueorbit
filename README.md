@@ -1,14 +1,23 @@
-## Hi there 👋 I'm Joi 
+# Hi,there👋 I'm Joi 
 
-I'm learning to build AI-powered products.
+I'm learning to build useful products with AI.
 
-### 🚀 Currently building
+Currently exploring AI, product development, and software building — one small project at a time.
 
-- ✈️ Triplog — a travel planning & memory tool
-- 📷 PhotoFlow — a photo layout & storytelling tool
-- 🏃 HerFit — a personalized fitness & nutrition assistant
+## 🚀 Currently Building
 
-### 🌱 Currently learning
+### ✈️ Triplog
+A travel planning and memory tool built around **routes, time, and places pics**.
+
+Plan your itinerary, visualize your route, and keep photos, notes, and expenses together.
+
+### 📷 PhotoFlow
+A tool for turning a collection of photos into beautiful layouts and visual stories.
+
+### 🏃 HerFit
+A fitness and nutrition assistant designed around women's needs, including cycle-aware planning.
+
+## 🌱 Currently Learning
 
 - AI & LLMs
 - Python
@@ -16,6 +25,6 @@ I'm learning to build AI-powered products.
 - Git & GitHub
 - Product development
 
-### 🛠️ My approach
+## 🛠️ My Approach
 
-Learn → Build → Ship → Improve
+**Learn → Build → Ship → Improve**
