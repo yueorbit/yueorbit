@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi there 👋 I'm Joi 
 
-<!--
-**yueorbit/yueorbit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm learning to build AI-powered products.
 
-Here are some ideas to get you started:
+### 🚀 Currently building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✈️ Triplog — a travel planning & memory tool
+- 📷 PhotoFlow — a photo layout & storytelling tool
+- 🏃 HerFit — a personalized fitness & nutrition assistant
+
+### 🌱 Currently learning
+
+- AI & LLMs
+- Python
+- JavaScript
+- Git & GitHub
+- Product development
+
+### 🛠️ My approach
+
+Learn → Build → Ship → Improve
